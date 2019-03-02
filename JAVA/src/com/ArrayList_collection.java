@@ -5,6 +5,7 @@ import java.util.Iterator;
 
 public class ArrayList_collection {
 	int age =90;
+	String name=gambhir Singh Shah;
 	//Array list concept
 	//Dynamic array using collection
 	//Arrayliist contaions duplicate values
