@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class ArrayList_collection {
-	
+	int age =90;
 	//Array list concept
 	//Dynamic array using collection
 	//Arrayliist contaions duplicate values
